@@ -1,0 +1,5 @@
+[user]
+	email = student@kodekloud.com
+	name = kodekloud
+[credential]
+	helper = cache --timeout=3600
